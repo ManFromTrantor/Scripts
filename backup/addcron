@@ -1,0 +1,3 @@
+## Automated Backups
+ 0   3    *   *   */2 /tools/BACKUP_Config/BACKUP_MasterScript.sh >> /dev/null 2>&1
+ 0   5    *   *   1   /tools/BACKUP_Config/BACKUP_Compress.sh >> /dev/null 2>&1

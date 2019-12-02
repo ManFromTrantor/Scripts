@@ -1,0 +1,7 @@
+#
+## Calomel.org  BACKUP_filter
+#
+*.ogg
+*.mov
+*.iso
+password_list
